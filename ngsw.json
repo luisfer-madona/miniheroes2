@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1653191042675,
+  "timestamp": 1653191221677,
   "index": "https://luisfer-madona.github.io/miniheroes2/src/index.html",
   "assetGroups": [
     {
@@ -104,7 +104,7 @@
     "https://luisfer-madona.github.io/miniheroes2/src/assets/js/modalFormulario.js": "cb9cb7aacb64769c39b0cc2a87503cfd48c2d541",
     "https://luisfer-madona.github.io/miniheroes2/src/assets/js/tablaUsuarios.js": "69f1dcd087e0b4e979019a3eb5b755b39bccf08c",
     "https://luisfer-madona.github.io/miniheroes2/src/favicon.ico": "70436a512456c8e0f4205c8a2df430dbebb64070",
-    "https://luisfer-madona.github.io/miniheroes2/src/index.html": "fb2faf66a8ed160d8cac0af4d6654a42853ca893",
+    "https://luisfer-madona.github.io/miniheroes2/src/index.html": "cc739c2908dd19846dfed236e5085ad21ea2778b",
     "https://luisfer-madona.github.io/miniheroes2/src/main.eab18bcac468e96e.js": "4630ed1f7b3c86b515334bea7cea6acf03826775",
     "https://luisfer-madona.github.io/miniheroes2/src/manifest.webmanifest": "076fe1e8d8538031dfeb5db98377630fe1477968",
     "https://luisfer-madona.github.io/miniheroes2/src/polyfills.f280a8b15a86a4af.js": "59d01b8f64dfbca0206a5e7d6cab1c03fddeb347",
