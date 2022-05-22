@@ -10,6 +10,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 @angular/youtube-player
 MIT
 The MIT License
